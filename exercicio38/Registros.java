@@ -16,6 +16,5 @@ public class Registros {
 	public void setSenha(int senha) {
 		this.senha = senha;
 	}
-	
-	
+	 
 }

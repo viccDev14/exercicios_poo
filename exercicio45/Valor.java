@@ -1,12 +1,12 @@
 package exercicio.exercicio45;
 
 public class Valor {
-	
-	//Valores que serao usados
+
+	// Valores que serao usados
 	private int valor1;
 	private int valor2;
 
-	//Getters e Setters
+	// Getters e Setters
 	public int getValor1() {
 		return valor1;
 	}
@@ -23,7 +23,7 @@ public class Valor {
 		this.valor2 = valor2;
 	}
 
-	//Metodo de divisao
+	// Metodo de divisao
 	public double verificar() {
 		return valor1 / valor2;
 	}

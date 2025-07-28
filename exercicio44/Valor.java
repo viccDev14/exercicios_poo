@@ -1,7 +1,6 @@
 package exercicio.exercicio44;
 
 public class Valor {
-
 	// Valores que serao usados
 	private int valor1;
 	private int valor2;

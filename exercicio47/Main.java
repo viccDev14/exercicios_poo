@@ -3,10 +3,9 @@ package exercicio.exercicio47;
 import java.util.Scanner;
 
 public class Main {
-	
 
 	public static void main(String[] args) {
-		
+
 		System.out.println();
 		Scanner in = new Scanner(System.in);
 		Valor valor = new Valor();
@@ -25,7 +24,5 @@ public class Main {
 
 		System.out.println(valor.divisao());
 	}
-	
-	
 
 }

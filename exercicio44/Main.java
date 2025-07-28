@@ -1,8 +1,8 @@
 package exercicio.exercicio44;
+//Classe principal
 
 import java.util.Scanner;
 
-//Classe principal
 public class Main {
 
 	public static void main(String[] args) {
@@ -23,7 +23,7 @@ public class Main {
 			valor.setValor2(in.nextInt());
 		} while (valor.getValor2() == 0);
 
-		//Exibe o resultado
+		// Exibe o resultado
 		System.out.println(valor.divisao());
 	}
 
