@@ -1,4 +1,4 @@
-package exercicio44;
+package exercicio.exercicio44;
 //Classe principal
 
 import java.util.Scanner;

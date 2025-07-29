@@ -1,4 +1,4 @@
-package exercicio47;
+package exercicio.exercicio47;
 
 public class Valor {
 	private int valor1;

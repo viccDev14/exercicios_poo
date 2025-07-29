@@ -1,4 +1,4 @@
-package exercicio12;
+package exercicio.exercicio12;
 
 public class Temperatura {
 	private int grausFahrenheit;

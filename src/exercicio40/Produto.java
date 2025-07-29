@@ -1,4 +1,4 @@
-package exercicio40;
+package exercicio.exercicio40;
 
 //Classe Informaçoes
 public class Produto {

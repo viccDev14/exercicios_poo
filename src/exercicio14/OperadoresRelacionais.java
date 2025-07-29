@@ -1,4 +1,4 @@
-package exercicio14;
+package exercicio.exercicio14;
 
 public class OperadoresRelacionais {
 	private int valor;

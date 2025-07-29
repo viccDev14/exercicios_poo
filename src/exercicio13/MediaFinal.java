@@ -1,4 +1,4 @@
-package exercicio13;
+package exercicio.exercicio13;
 
 public class MediaFinal {
 	private double nota1;

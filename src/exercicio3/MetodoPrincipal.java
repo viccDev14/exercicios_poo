@@ -1,4 +1,4 @@
-package exercicio3;
+package exercicio.exercicio3;
 
 public class MetodoPrincipal {
 

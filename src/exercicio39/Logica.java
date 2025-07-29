@@ -1,4 +1,4 @@
-package exercicio39;
+package exercicio.exercicio39;
 
 public class Logica {
 	private boolean a;

@@ -1,4 +1,4 @@
-package exercicio52;
+package exercicio.exercicio52;
 
 public class Numeros {
 	private int quantidade;

@@ -1,6 +1,8 @@
-package exercicio54;
+package exercicio.exercicio54;
 
 import java.util.Scanner;
+
+import exercicio.exercicio53.Contador;
 
 public class Main {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package exercicio18;
+package exercicio.exercicio18;
 
 public class Votaçao {
 	private int anoAtual;

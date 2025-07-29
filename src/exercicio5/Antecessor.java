@@ -1,4 +1,4 @@
-package exercicio5;
+package exercicio.exercicio5;
 
 public class Antecessor {
 	private int valor;

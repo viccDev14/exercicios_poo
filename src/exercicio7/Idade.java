@@ -1,4 +1,4 @@
-package exercicio7;
+package exercicio.exercicio7;
 
 public class Idade {
 	private int ano;

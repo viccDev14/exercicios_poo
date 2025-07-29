@@ -1,4 +1,4 @@
-package exercicio54;
+package exercicio.exercicio54;
 
 public class Contador {
 	// Dado que sera utilizado posteriormente

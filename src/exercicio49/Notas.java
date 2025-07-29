@@ -1,4 +1,4 @@
-package exercicio49;
+package exercicio.exercicio49;
 
 public class Notas {
 

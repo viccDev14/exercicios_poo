@@ -1,4 +1,4 @@
-package exercicio44;
+package exercicio.exercicio44;
 
 public class Valor {
 	// Valores que serao usados

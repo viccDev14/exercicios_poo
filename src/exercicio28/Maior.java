@@ -1,4 +1,4 @@
-package exercicio28;
+package exercicio.exercicio28;
 
 public class Maior {
 	private int numero1, numero2, numero3;

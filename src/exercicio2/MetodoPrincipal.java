@@ -1,4 +1,4 @@
-package exercicio2;
+package exercicio.exercicio2;
 
 public class MetodoPrincipal {
 	public static void main(String[] args) {

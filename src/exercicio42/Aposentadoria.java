@@ -1,4 +1,4 @@
-package exercicio42;
+package exercicio.exercicio42;
 
 public class Aposentadoria {
 

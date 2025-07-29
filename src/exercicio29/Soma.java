@@ -1,4 +1,4 @@
-package exercicio29;
+package exercicio.exercicio29;
 
 public class Soma {
 	private int numero1, numero2, numero3;
