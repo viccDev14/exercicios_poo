@@ -1,4 +1,4 @@
-package exercicio.exercicio36;
+package exercicio36;
 
 public class Pessoa {
 	private int idade;

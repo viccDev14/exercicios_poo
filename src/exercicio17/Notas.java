@@ -1,4 +1,4 @@
-package exercicio.exercicio17;
+package exercicio17;
 
 public class Notas {
 	private double avaliaçao1;

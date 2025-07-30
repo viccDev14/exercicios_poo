@@ -1,4 +1,4 @@
-package exercicio.exercicio16;
+package exercicio16;
 
 public class Maças {
 	private int maçasCompradas;

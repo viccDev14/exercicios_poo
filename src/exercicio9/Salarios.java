@@ -1,4 +1,4 @@
-package exercicio.exercicio9;
+package exercicio9;
 
 public class Salarios {
 	private String nome;

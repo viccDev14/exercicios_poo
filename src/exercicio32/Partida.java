@@ -1,4 +1,4 @@
-package exercicio.exercicio32;
+package exercicio32;
 
 public class Partida {
 	private String time1, time2;

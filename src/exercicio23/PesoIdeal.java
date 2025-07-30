@@ -1,4 +1,4 @@
-package exercicio.exercicio23;
+package exercicio23;
 
 public class PesoIdeal {
 	private String nome;

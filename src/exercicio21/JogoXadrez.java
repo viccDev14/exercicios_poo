@@ -1,4 +1,4 @@
-package exercicio.exercicio21;
+package exercicio21;
 
 public class JogoXadrez {
 	private int horasInicio;

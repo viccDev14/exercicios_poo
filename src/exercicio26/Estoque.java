@@ -1,4 +1,4 @@
-package exercicio.exercicio26;
+package exercicio26;
 
 public class Estoque {
 	private int quantidadeAtualEstoque;

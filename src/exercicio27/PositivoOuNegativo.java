@@ -1,4 +1,4 @@
-package exercicio.exercicio27;
+package exercicio27;
 
 public class PositivoOuNegativo {
 	private int valor;

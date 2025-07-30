@@ -1,4 +1,4 @@
-package exercicio.exercicio30;
+package exercicio30;
 
 public class Ordenador {
 	private int valor1, valor2, valor3;

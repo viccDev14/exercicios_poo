@@ -1,4 +1,4 @@
-package exercicio.exercicio10;
+package exercicio10;
 
 public class CarroNovo {
 	private double custoFabrica;

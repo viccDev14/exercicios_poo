@@ -1,4 +1,4 @@
-package exercicio.exercicio11;
+package exercicio11;
 
 public class Carro {
 	private double totalVendas;

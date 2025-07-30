@@ -1,4 +1,4 @@
-package exercicio.exercicio35;
+package exercicio35;
 
 public class Vendas {
 	private double litros;

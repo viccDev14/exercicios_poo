@@ -1,4 +1,4 @@
-package exercicio.exercicio55;
+package exercicio55;
 
 public class Tabuada {
 	private int numero;

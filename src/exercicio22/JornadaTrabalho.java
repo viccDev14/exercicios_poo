@@ -1,4 +1,4 @@
-package exercicio.exercicio22;
+package exercicio22;
 
 public class JornadaTrabalho {
 	private double salarioPorHora;

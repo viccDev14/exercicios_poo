@@ -1,4 +1,4 @@
-package exercicio.exercicio32;
+package exercicio32;
 
 import java.util.Scanner;
 

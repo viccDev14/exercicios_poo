@@ -1,4 +1,4 @@
-package exercicio.exercicio8;
+package exercicio8;
 
 public class Eleitores {
 	private double brancos;

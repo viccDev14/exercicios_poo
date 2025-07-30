@@ -1,4 +1,4 @@
-package exercicio.exercicio20;
+package exercicio20;
 
 public class OrdemCrescente {
 	private int numero1;

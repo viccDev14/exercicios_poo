@@ -1,4 +1,4 @@
-package exercicio.exercicio50;
+package exercicio50;
 
 public class Contador {
 	

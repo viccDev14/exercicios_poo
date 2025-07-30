@@ -1,4 +1,4 @@
-package exercicio.exercicio43;
+package exercicio43;
 
 //Classe principal
 public class Main {

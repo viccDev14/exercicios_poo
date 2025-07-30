@@ -1,4 +1,4 @@
-package exercicio.exercicio38;
+package exercicio38;
 
 public class Usuario {
 	private final int codigoCerto = 1234;

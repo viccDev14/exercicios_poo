@@ -1,4 +1,4 @@
-package exercicio.exercicio24;
+package exercicio24;
 
 public class Salario {
 	private double salarioFixo;

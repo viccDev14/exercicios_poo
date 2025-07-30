@@ -1,4 +1,4 @@
-package exercicio.exercicio33;
+package exercicio33;
 
 public class Valores {
 	private int valor1, valor2;

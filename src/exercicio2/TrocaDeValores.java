@@ -1,4 +1,4 @@
-package exercicio.exercicio2;
+package exercicio2;
 
 public class TrocaDeValores {
 

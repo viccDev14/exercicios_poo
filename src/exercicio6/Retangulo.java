@@ -1,4 +1,4 @@
-package exercicio.exercicio6;
+package exercicio6;
 
 public class Retangulo {
 	private double base; 

@@ -1,4 +1,4 @@
-package exercicio.exercicio19;
+package exercicio19;
 
 public class ObterMaior {
 	private int numero1;

@@ -1,4 +1,4 @@
-package exercicio.exercicio4;
+package exercicio4;
 
 public class OperadoresLogicos {
 	private int a, b, c, d, e, f, g, h, i, j;

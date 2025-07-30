@@ -1,4 +1,4 @@
-package exercicio.exercicio31;
+package exercicio31;
 
 public class Triangulo {
 	private double ladoA, ladoB, ladoC;
